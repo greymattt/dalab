@@ -1,3 +1,5 @@
+CREATE A TABLE, UPDATE, READ AND DELETE DATA USING HBASE COMMANDS
+
 # Create a table named 'employees' with two column families 'personal' and 'professional' by executing the following command:
 create 'employees', 'personal', 'professional'
 

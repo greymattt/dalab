@@ -1,3 +1,5 @@
+IMPLEMENT THE PIG LATIN SCRIPTS TO FIND A MAX TEMP FOR EACH AND EVERY YEAR
+
 Algorithm
 1. Load the input data from the 'input.txt' file in HDFS, assuming it's tab-separated and has two columns: date and temperature.
 2. Extract the year from the date using the SUBSTRING function. Adjust the substring function according to your date format if needed.

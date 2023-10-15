@@ -1,3 +1,5 @@
+// RUN A BASIC WORD COUNT MAP REDUCE PROGRAM TO UNDERSTAND MAP REDUCE PARADIGM
+
 Algorithm:
 1. One block is processed by one mapper at a time. In the mapper, a developer can specify his own business logic 
 	as per the requirements. In this manner, Map runs on all the nodes of the cluster and process the data blocks in parallel.

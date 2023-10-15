@@ -1,3 +1,5 @@
+INSTALLATION OF PIG AND RUN THE PIG LATIN SCRIPTS TO FIND WORD COUNT
+
 ALGORITHM :
 1. Load the input data from the input.txt file in HDFS and split it into lines.
 2. Tokenize each line into individual words.

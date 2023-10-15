@@ -1,3 +1,6 @@
+// WRITE A MAP REDUCE PROGRAM THAT MINES WEATHER DATA
+
+
 ALGORITHM:
 1. The Hadoop job reads input weather data from a specified input path.
 2. The Mapper (MaxTemperatureMapper) processes each line of input data, checking for

@@ -1,3 +1,5 @@
+// IMPLEMENT MATRIX MULTIPLICATION WITH HADOOP MAP REDUCE
+
 Algorithm for Map Function.
 1. for each element mij of M doproduce (key,value) pairs as ((i,k), (M,j,mij), for k=1,2,3,.. upto the number of columns of N
 2. for each element njk of N do produce (key,value) pairs as ((i,k),(N,j,Njk), for i = 1,2,3,.. Upto the number of rows of M.
